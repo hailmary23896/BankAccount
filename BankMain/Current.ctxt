@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Current
+comment1.params=
+comment1.target=Current()
+comment2.params=a\ b\ type
+comment2.target=Current(int,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=void\ credit()
+comment4.params=
+comment4.target=void\ debit()
+numComments=5
